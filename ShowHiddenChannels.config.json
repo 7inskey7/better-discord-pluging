@@ -1,0 +1,14 @@
+{
+	"blacklist": [],
+	"categorydata": [],
+	"settings": {
+		"alwaysCollapse": false,
+		"showAnnouncement": true,
+		"showForNormal": true,
+		"showStore": true,
+		"showText": false,
+		"showVoice": true,
+		"showVoiceUsers": true,
+		"sortNative": true
+	}
+}

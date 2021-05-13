@@ -1,0 +1,13 @@
+{
+	"changeLogs": {
+		"ShowHiddenChannels": "2.9.5"
+	},
+	"choices": {
+		"toastPosition": "left"
+	},
+	"general": {
+		"showToasts": true,
+		"showSupportBadges": true,
+		"useChromium": false
+	}
+}
